@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@1,300&display=swap');
+
+html,
+body {
+  background-color: #f5f5dc;
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+}
+
+.value-css {
+  width: 90%;
+}
+
+.area {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+}
